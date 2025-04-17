@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="Screenshot_20250418_002731" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Gulshan jain, a Web Developer 👋🏼:
 🛜 currently working on my own Portfolio website 
