@@ -1,5 +1,4 @@
-"![WhatsApp Image 2025-04-18 at 22 18 17_3694778b](https://github.com/user-attachments/assets/59abf2ab-8c17-4ab2-9cba-a5a10404c207)
-" 
+![WhatsApp Image 2025-04-18 at 22 18 17_3694778b](https://github.com/user-attachments/assets/59abf2ab-8c17-4ab2-9cba-a5a10404c207)
 
 # Hello World!, I'm Gulshan jain, a Web Developer 👋🏼:
 🛜 currently working on my own Portfolio website 
