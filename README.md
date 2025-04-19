@@ -1,8 +1,17 @@
 ![WhatsApp Image 2025-04-18 at 22 18 17_3694778b](https://github.com/user-attachments/assets/59abf2ab-8c17-4ab2-9cba-a5a10404c207)
 
 # Hello World!, I'm Gulshan jain, a Web Developer 👋🏼:
-🛜 currently working on my own Portfolio website 
 
+## 🚀 About Me
+- 👨‍💻 BCA Student | Future Frontend Developer
+- 💡 Learning JavaScript, HTML, CSS & Git
+- 🔭 Working on Frontend Projects & JavaScript Practice
+- 🎯 Goal: Become a skilled Frontend Developer & land my first tech job
+- 🛜 currently working on my own Portfolio website
+
+## 📫 Connect With Me
+- LinkedIn: [https://www.linkedin.com/in/gulshan-jain-963a21319?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B39Nb1%2FRCTby7RG0S5LZ17Q%3D%3D]
+- Email: bittujain491@gmail.com
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -41,7 +50,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+
+## 📈 GitHub Stats
+![Bittu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bittu491&show_icons=true&theme=radical)
+
 <!--END_SECTION:activity-->
+
 
 </details>
 
